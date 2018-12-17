@@ -4,8 +4,10 @@ header-img: img/home-bg.jpg
 #email: your-email@yourdomain.com
 #copyright_name: Your/Project/Corporate Name
 description: "A series of solar physics seminars streamed to several European institutes"
-baseurl: "/espos"
-url: "http://ita-solar.github.io"
+#baseurl: "/espos"
+#url: "http://ita-solar.github.io"
+baseurl: "/"
+url: "http://espos.stream"
 #twitter_username: SBootstrap
 #github_username:  davidtmiller
 #facebook_username:  StartBootstrap
