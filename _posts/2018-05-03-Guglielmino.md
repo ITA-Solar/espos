@@ -20,4 +20,4 @@ Comparing these signatures with previous observations and numerical models, we s
 
 ### Downloads
 
-[Seminar video](../../../../videos/2018-05-03-Guglielmino.mp4)
+[Seminar video](https://folk.uio.no/tiago/espos/videos/2018-05-03-Guglielmino.mp4)

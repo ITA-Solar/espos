@@ -13,4 +13,4 @@ We present preliminary results derived from the analysis of spectropolarimetric 
 
 ### Downloads
 
-[Seminar video](../../../../videos/2018-09-20-Stangalini.mp4)
+[Seminar video](https://folk.uio.no/tiago/espos/videos/2018-09-20-Stangalini.mp4)

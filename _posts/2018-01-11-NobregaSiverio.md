@@ -18,4 +18,4 @@ Surges are ubiquitous cool ejections in the solar atmosphere that often appear a
 
 ### Downloads
 
-[Seminar video](http://espos.stream/videos/2018-01-11-NobregaSiverio.mov)
+[Seminar video](https://folk.uio.no/tiago/espos/videos/2018-01-11-NobregaSiverio.mov)

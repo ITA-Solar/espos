@@ -15,4 +15,4 @@ The Interface Region Imaging Spectrograph (IRIS) is a NASA small explorer satell
 
 ### Downloads
 
-[Seminar video](http://espos.stream/videos/2017-11-30-DePontieu.mp4)
+[Seminar video](https://folk.uio.no/tiago/espos/videos/2017-11-30-DePontieu.mp4)

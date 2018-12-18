@@ -18,4 +18,4 @@ velocities in the solar surface to fast image reconstruction.
 
 ### Downloads
 
-[Seminar video](http://espos.stream/videos/2017-09-21-AsensioRamos.mp4) (The first few minutes are missing.)
+[Seminar video](https://folk.uio.no/tiago/espos/videos/2017-09-21-AsensioRamos.mp4) (The first few minutes are missing.)
