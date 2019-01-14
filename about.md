@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 
 The European Solar Physics Online Seminars (ESPOS) is an experimental series of regular seminars held by video-conference between European institutions. We propose to connect European solar physics groups through a regular series of open, online seminars. The aim is to build an effective and open platform for the exchange of scientific ideas. The online seminars allow researchers to share their work more widely with a specialised audience, and give some exposure to cutting-edge research for students and other young researchers that do not regularly travel to conferences.
 
-Different institutes take turns at hosting a speaker. If your institute would like to join the seminars, please [contact Tiago Pereira](https://folk.uio.no/tiago/#contact) and read more about the [format and guidelines](../guidelines/).
+Different institutes take turns at hosting a speaker. If your institute would like to join the seminars, please [contact Shahin Jafarzadeh](mailto:shahin.jafarzadeh@astro.uio.no) and read more about the [format and guidelines](../guidelines/).
 
 Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/info/espos-announce) to receive announcements of upcoming seminars by email.
 
