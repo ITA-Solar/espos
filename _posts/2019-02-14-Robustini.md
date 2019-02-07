@@ -4,7 +4,7 @@ title:      "Chromospheric observations and magnetic configuration of a supergra
 subtitle:   "by Carolina Robustini"
 date:       2019-02-14 11:00:00
 author:     "Stockholm University"
-#header-img: "img/img_2019-02-14.jpg"
+header-img: "img/img_2019-02-14.jpg"
 published:  true
 ---
 
