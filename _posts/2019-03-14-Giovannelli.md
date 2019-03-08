@@ -4,7 +4,7 @@ title:      "Emerging bipolar magnetic pairs in the solar photosphere: diffusion
 subtitle:   "by Giovannelli L., Berrilli F., Caroli A. Del Moro D., Giannattasio F."
 date:       2019-03-14 11:00:00
 author:     "University of Rome Tor Vergata"
-# header-img: "img/img_2019-02-28-BL.jpg"
+header-img: "img/img_2019-03-14_Giovannelli.jpg"
 published:  true
 ---
 
