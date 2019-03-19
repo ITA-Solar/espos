@@ -25,5 +25,3 @@ Our model gives a quantitative estimate of the energy released by the reconfigur
         <source src="http://folk.uio.no/shahinj/espos/videos/2019-03-14-Giovannelli.mp4" type="video/mp4">
     </video>
 </div> 
-
-[Download video](http://folk.uio.no/shahinj/espos/videos/2019-03-14-Giovannelli.mp4)
