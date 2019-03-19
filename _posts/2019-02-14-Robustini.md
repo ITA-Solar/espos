@@ -19,5 +19,3 @@ We present high spatial resolution narrow-band images in three different chromos
         <source src="https://folk.uio.no/shahinj/espos/videos/2019-02-14-Robustini.mp4" type="video/mp4">
     </video>
 </div> 
-
-[Download video](https://folk.uio.no/shahinj/espos/videos/2019-02-14-Robustini.mp4)
