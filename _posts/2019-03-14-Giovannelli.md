@@ -16,3 +16,14 @@ In this talk we will focus on the analysis of the bipolar magnetic pairs in the 
 The measured magnetic emergence rate is used to constrain a simplified model that mimics the advection on the solar surface and evolves the position of a great number of loops, taking into account emergence, reconnection and cancellation events. In particular we compute the energy released by the reconnection between different magnetic loops in the nano-flares energy range. 
 
 Our model gives a quantitative estimate of the energy released by the reconfiguration of the magnetic loops in a quiet Sun area as a function of height in the solar atmosphere, from hundreds of Km above the photosphere up to the corona, suggesting that an efficiency of ~10% in the energy deposition might sustain the million degree corona.
+
+
+### Seminar Video
+
+<div class="embed-responsive embed-responsive-16by9"> 
+    <video width="700" controls>
+        <source src="http://folk.uio.no/shahinj/espos/videos/2019-03-14-Giovannelli.mp4" type="video/mp4">
+    </video>
+</div> 
+
+[Download video](http://folk.uio.no/shahinj/espos/videos/2019-03-14-Giovannelli.mp4)
