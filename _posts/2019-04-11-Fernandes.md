@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Sun from Coimbra: history, recent results and perspectives"
 subtitle:   "by João Fernandes"
-date:       2019-03-28 11:00:00
+date:       2019-04-11 11:00:00
 author:     "University of Coimbra, Portugal"
 # header-img: "img/img_2019-03-28_Gunar.jpg"
 published:  true
