@@ -17,6 +17,7 @@ Participating institutions:
 * Armagh Observatory (UK)
 * Astronomical Institute of the Czech Academy of Sciences (CZ)
 * University of Catania / Catania Astrophysical Observatory (IT)
+* University of Coimbra (PT)
 * School of Physics & Astronomy, University of Glasgow (UK)
 * Instituto de Astrofísica de Andalucía (ES)
 * Instituto de Astrofísica de Canarias (ES)
