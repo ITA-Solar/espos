@@ -4,7 +4,7 @@ title:      "2D and 3D Kinematic Analysis of an Ideal-MHD Prominence Eruption"
 subtitle:   "by Thomas Rees-Crockford"
 date:       2019-04-25 11:00:00
 author:     "Northumbria University"
-#header-img: "img/img_2019-04-11-Fernandes.jpg"
+header-img: "img/img_2019-04-25-Rees-Crockford.jpg"
 published:  true
 ---
 
