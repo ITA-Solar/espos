@@ -34,3 +34,4 @@ Participating institutions:
 * Astronomical Institute of Slovak Academy of Sciences (SK)
 * Solar and Magnetospheric Theory group, University of St. Andrews (UK)
 * Institute for Solar Physics, Stockholm University (SE)
+* University of Exeter (UK)
