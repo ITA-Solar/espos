@@ -35,3 +35,6 @@ Participating institutions:
 * Solar and Magnetospheric Theory group, University of St. Andrews (UK)
 * Institute for Solar Physics, Stockholm University (SE)
 * University of Exeter (UK)
+* Mullard Space Science Laboratory, University College London (UK)
+* Indian Institute of Technology, BHU (IN)
+
