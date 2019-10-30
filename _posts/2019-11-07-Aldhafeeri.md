@@ -4,7 +4,7 @@ title:      "MHD wave modes in the solar magnetic flux tubes with elliptical cro
 subtitle:   "by Anwar Ali Aldhafeeri"
 date:       2019-11-07 11:00:00
 author:     "Plasma Dynamics Group, The University of Sheffield"
-# header-img: "img/img_2019-10-24-Syntelis.jpg"
+header-img: "img/img_2019-11-07-Aldhafeeri.jpg"
 published:  true
 ---
 
