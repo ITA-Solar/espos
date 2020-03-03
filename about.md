@@ -39,4 +39,5 @@ Participating institutions:
 * University of the Balearic Islands, Solar Physics group (ES)
 * Indian Institute of Technology, BHU (IN)
 * Inter-University Centre for Astronomy and Astrophysics, IUCAA (IN)
+* Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
 
