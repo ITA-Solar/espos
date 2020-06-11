@@ -4,7 +4,7 @@ title:      "Two-fluid simulations of Rayleigh-Taylor instability in a magnetize
 subtitle:   "by Beatrice Popescu Braileanu, Slava Lukin, Elena Khomenko, Angel de Vicente"
 date:       2020-06-25 11:00:00
 author:     "Instituto de Astrofísica de Canarias (IAC)"
-# header-img: "img/img_2020-06-25-Popescu.jpg"
+# header-img: "img/img_2020-06-25-Braileanu.jpg"
 published:  true
 ---
 
