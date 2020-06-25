@@ -40,4 +40,6 @@ Participating institutions:
 * Indian Institute of Technology, BHU (IN)
 * Inter-University Centre for Astronomy and Astrophysics, IUCAA (IN)
 * Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
+* Leibniz Institute for Solar Physics, KIS (DE)
+
 
