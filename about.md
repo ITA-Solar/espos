@@ -41,5 +41,5 @@ Participating institutions:
 * Inter-University Centre for Astronomy and Astrophysics, IUCAA (IN)
 * Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
 * Leibniz Institute for Solar Physics, KIS (DE)
-
+* University of Central Lancashire (UK)
 
