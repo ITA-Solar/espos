@@ -9,7 +9,7 @@ The European Solar Physics Online Seminars (ESPOS) is an experimental series of 
 
 Different institutes take turns at hosting a speaker. If your institute would like to join the seminars, please contact [Shahin Jafarzadeh](mailto:shahin.jafarzadeh@astro.uio.no) and read more about the [format and guidelines](../guidelines/).
 
-Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/info/espos-announce) to receive announcements of upcoming seminars by email.
+Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/subscribe/espos-announce) to receive announcements of upcoming seminars by email.
 
 Participating institutions:
 
