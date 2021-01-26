@@ -35,7 +35,6 @@ Below we include some guidelines and tips for presenters, hosts, and audiences. 
 * Get acquainted with the Zoom app and configure it to better fit your screen/projector. A recommended setup is to have the slides in fullscreen and a speaker video on top.
 * By default, Zoom puts the slides in fullscreen but shows all webcams over it. To show only the speaker's webcam, select "Pin video" from the option menu on the speaker's image (<a href="https://support.zoom.us/hc/en-us/articles/201362743-How-To-Pin-Screen-or-Screens-" style="text-decoration:underline">see Zoom's help</a>). You can then adjust the size and location of the speaker's video to better fit your setup.
 * After the talk is finished, you may want to select "Switch to Active Speaker" so you can see the video feeds of people asking questions.
-* Try keep the number of Zoom connections to a minimum, so we don't reach the limit.
 * Mute any microphones when speaker starts, unless asking questions. (The Zoom host can also mute other participants after the seminar starts.)
 * Try to ask questions only at the end, but please interrupt if there are serious issues with the video or sound.
 * When asking questions, introduce yourself and ask questions clearly and slowly so everyone can hear.
