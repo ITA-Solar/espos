@@ -8,9 +8,7 @@ header-img: "img/guidelines-bg.jpg"
 
 The nominal duration of each seminar is 30 minutes, plus time for questions (about 10 minutes). We will be broadcasting via [Zoom](https://zoom.us), with other institutes connecting remotely. At the host institute, the seminar will be held as close as possible to a normal seminar. The host institute will stream the slides and an additional speaker video through Zoom.
 
-Remote institutes are encouraged to present the Zoom feed through their projector or screen as in a typical seminar. They can also connect a webcam and microphone for their audience to ask questions. It is also possible to connect individually with any computer, and this is the preferred option for people outside their institutes. However, we ask people to avoid doing this if possible, for two reasons: (1) even with a pro Zoom account we have a maximum limit of connections (currently about 100) and would like everyone to be able to access the seminars, and (2) many Zoom connections increase the entropy and the likelihood that a forgoten microphone will make noise, and make it harder to identify participants.
-
-**UPDATE**: Due to the current pandemic situation, we have increased our Zoom capacity to **500** individual connections.
+Remote institutes are encouraged to present the Zoom feed through their projector or screen as in a typical seminar. They can also connect a webcam and microphone for their audience to ask questions. It is also possible to connect individually with any computer. Our Zoom Pro account can currently host up to to **500** individual participants.
 
 Below we include some guidelines and tips for presenters, hosts, and audiences. We are still learning how to adjust the format for larger audiences, so these may change with time.
 
@@ -42,3 +40,4 @@ Below we include some guidelines and tips for presenters, hosts, and audiences. 
 * Try to ask questions only at the end, but please interrupt if there are serious issues with the video or sound.
 * When asking questions, introduce yourself and ask questions clearly and slowly so everyone can hear.
 * Avoid asking questions through Zoom chat -- it is difficult to see when in fullscreen.
+
