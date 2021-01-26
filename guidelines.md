@@ -8,7 +8,7 @@ header-img: "img/guidelines-bg.jpg"
 
 The nominal duration of each seminar is 30 minutes, plus time for questions (about 10 minutes). We will be broadcasting via [Zoom](https://zoom.us), with other institutes connecting remotely. At the host institute, the seminar will be held as close as possible to a normal seminar. The host institute will stream the slides and an additional speaker video through Zoom.
 
-Remote institutes are encouraged to present the Zoom feed through their projector or screen as in a typical seminar. They can also connect a webcam and microphone for their audience to ask questions. It is also possible to connect individually with any computer. Our Zoom Pro account can currently host up to to **500** individual participants.
+Remote institutes are encouraged to present the Zoom feed through their projector or screen as in a typical seminar. They can also connect a webcam and microphone for their audience to ask questions. It is also possible to connect individually with any computer. Our Zoom Pro account can currently host up to **500** individual participants.
 
 Below we include some guidelines and tips for presenters, hosts, and audiences. We are still learning how to adjust the format for larger audiences, so these may change with time.
 
