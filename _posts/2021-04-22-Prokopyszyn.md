@@ -10,3 +10,7 @@ published:  true
 
 ## Abstract
 In this seminar, we aim to show why Fast/Alfvén waves couple at the solar surface. We will also show that the polarisation of the waves changes upon reflection at the solar surface. Finally, we will test the validity of line-tied boundary conditions for highly phase-mixed Alfvén waves. For most       parameters, line-tied boundary conditions provide a good approximation. However, for highly phase-mixed waves, the coronal transverse length scales can be shorter than the corresponding parallel length scales in the chromosphere. In that case, we find that the line-tied model produces unphysically large boundary layers. Hence, we have the counter-intuitive result that the length scales parallel to the solar surface play a key role in determining the validity of line-tied boundary conditions.
+
+### Recorded video
+
+[https://science-media.org/video/304](https://science-media.org/video/304)
