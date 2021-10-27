@@ -15,5 +15,6 @@ Solar flares originate from active regions (ARs) hosting complex and strong bipo
 * Luca Giovannelli (Dipartimento di Fisica, Università degli Studi di Roma Tor Vergata)
 * Cristina Campi (Dipartimento di Matematica, Università di Genova)
 
+
 ### Reference
 [Cicogna et al., Flare-forecasting Algorithms Based on High-gradient Polarity Inversion Lines in Active Regions, ApJ, 915, id.38, 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...915...38C/abstract)
