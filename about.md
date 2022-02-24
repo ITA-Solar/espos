@@ -42,4 +42,5 @@ Participating institutions:
 * Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
 * Leibniz Institute for Solar Physics, KIS (DE)
 * University of Central Lancashire (UK)
+* Eötvös Loránd University, ELTE (HU)
 
