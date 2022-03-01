@@ -15,3 +15,7 @@ Our work has shown that even small-scale features, which are at the resolution l
 
 ### Reference
 * ["Probing Upflowing Regions in the Quiet Sun and Coronal Holes": Schwanitz, C., Harra, L., Raouafi, N. E., et al. 2021, Solar Physics, 296, 175](https://link.springer.com/article/10.1007/s11207-021-01915-0)
+
+### Recorded video
+
+[https://science-media.org/video/323](https://science-media.org/video/323)
