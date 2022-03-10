@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Small-scale MHD waves in the solar chromosphere with ALMA"
-subtitle:   "Juan Camilo Guevara Gomez"
+subtitle:   "Juan Camilo Guevara Gómez"
 date:       2022-03-17 11:00:00
 author:     "Rosseland Centre for Solar Physics, University of Oslo, Norway"
 #header-img: "img/2022-03-17-Guevara-Gomez.jpg"
