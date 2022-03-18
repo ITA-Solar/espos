@@ -43,4 +43,5 @@ Participating institutions:
 * Leibniz Institute for Solar Physics, KIS (DE)
 * University of Central Lancashire (UK)
 * Eötvös Loránd University, ELTE (HU)
+* KU Leuven, Centre for Mathematical Plasma Astrophysics (BE)
 
