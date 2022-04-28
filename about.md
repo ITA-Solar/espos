@@ -44,4 +44,4 @@ Participating institutions:
 * University of Central Lancashire (UK)
 * Eötvös Loránd University, ELTE (HU)
 * KU Leuven, Centre for Mathematical Plasma Astrophysics (BE)
-
+* Indian Institute of Astrophysics, IIA (IN)
