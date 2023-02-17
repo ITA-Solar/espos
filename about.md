@@ -45,3 +45,6 @@ Participating institutions:
 * Eötvös Loránd University, ELTE (HU)
 * KU Leuven, Centre for Mathematical Plasma Astrophysics (BE)
 * Indian Institute of Astrophysics, IIA (IN)
+* INAF Capodimonte Astronomical Observatory (IT)
+* University of Cambridge (UK)
+
