@@ -20,3 +20,7 @@ Point spread functions describe diffraction and scattering in imaging instrument
   -  and a new point spread function deconvolution method, which is faster by a factor of 4 to 50 compared to the Richardson-Lucy algorithm.
 
 I would like to conclude with a discussion on what further data products and scientific results can and should be improved by correcting the underlying imaging data for instrumental scattering.
+
+### Recorded video
+
+[https://science-media.org/video/348](https://science-media.org/video/348)
