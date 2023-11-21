@@ -15,3 +15,6 @@ The active region was observed during coordinated observations with Solar Orbite
 
 ### Co-authors: 
 Miho Janvier, Chris Nelson, Louise Harra, Aleksandra Tritschler, Thomas A. Schad, and Daniel Müller 
+
+### Recorded video
+[https://science-media.org/video/356](https://science-media.org/video/356)
