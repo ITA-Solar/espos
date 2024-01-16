@@ -24,7 +24,7 @@ Participating institutions:
 * Institut d'Astrophysique Spatiale, IAS (FR)
 * Leibniz Institute for Astrophysics Potsdam (DE)
 * Max Planck Institute for Solar System Research, MPS (DE)
-* Nortumbria University, Solar Physics group (UK)
+* Northumbria University, Solar Physics group (UK)
 * University of Oslo, Rosseland Centre for Solar Physics, RoCS (NO)
 * Queen's University Belfast, Astrophysics Research Centre (UK)
 * INAF - Rome Astrophysical Observatory (IT)
