@@ -14,7 +14,6 @@ Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/subscrib
 Participating institutions:
 
 * Aberystwyth University, Solar System Physics group (UK)
-* Armagh Observatory (UK)
 * Astronomical Institute of the Czech Academy of Sciences (CZ)
 * University of Catania / Catania Astrophysical Observatory (IT)
 * University of Coimbra (PT)
