@@ -11,7 +11,7 @@ Different institutes take turns at hosting a speaker. If your institute would li
 
 Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/subscribe/espos-announce) to receive announcements of upcoming seminars by email.
 
-Participating Institutions (Cyclic Seminar Hosting Order; Subject to Updates):
+Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 
 1. University of Sheffield, Plasma Dynamics Group (UK)
 2. Eötvös Loránd University, ELTE (HU)
