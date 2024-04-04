@@ -13,3 +13,6 @@ The solar atmosphere is filled with clusters of hot small-scale loops commonly k
 
 ### Co-authors:
 Fernando Moreno-Insertis, Klaus Galsgaard, Kilian Krikova, Luc Rouppe van der Voort, Reetika Joshi, and Maria Madjarska
+
+### Recorded video
+[https://science-media.org/video/363](https://science-media.org/video/363)
