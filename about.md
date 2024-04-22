@@ -19,7 +19,7 @@ Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 4. Queen’s University Belfast, Astrophysics Research Centre (UK)
 5. Astronomical Institute of Slovak Academy of Sciences (SK)
 6. Instituto de Astrofísica de Canarias, IAC (ES)
-7. University of Cambridge (UK) -- *EXTRA SLOT*
+7. University of Cambridge (UK) — *EXTRA SLOT*
 8. INAF-OAR - Rome Astrophysical Observatory (IT) 
 9. Stockholm University, Institute for Solar Physics (SE)
 10. University of Exeter (UK)
