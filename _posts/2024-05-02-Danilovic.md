@@ -16,4 +16,5 @@ We present the results of coordinated observations of the Swedish 1-m Solar Tele
 
 ### Presentation file
 [https://dubshen.astro.su.se/~sdani/so/talk_espos.key](https://dubshen.astro.su.se/~sdani/so/talk_espos.key)
+
 [https://dubshen.astro.su.se/~sdani/so/talk_espos.pdf](https://dubshen.astro.su.se/~sdani/so/talk_espos.pdf)
