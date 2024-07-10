@@ -14,3 +14,6 @@ Our results show that, when the data from the DONKI database are used, the model
 
 ### Co-author:
 Jasmina Magdalenic (KU Leuven, Leuven, Belgium; Solar-Terrestrial Center of Excellence-SIDC, Royal Observatory of Belgium)
+
+### Recorded video
+[http://doi.org/10.18147/smn.2024/video:369](http://doi.org/10.18147/smn.2024/video:369)
