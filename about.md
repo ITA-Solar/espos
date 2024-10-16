@@ -29,7 +29,7 @@ Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 14. INAF-OAR - Rome Astrophysical Observatory (IT)
 15. University of Oslo, Rosseland Centre for Solar Physics, RoCS (NO)
 16. University of the Balearic Islands UIB, Solar Physics group (ES)
-17. University of Coimbra (PT)
+17. Observatorio Astronómico Nacional de Colombia, Universidad Nacional de Colombia (COL)
 18. University of Glasgow, School of Physics & Astronomy (UK)
 19. Northumbria University, Solar Physics group (UK)
 20. University College London, Mullard Space Science Laboratory, MSSL (UK)
@@ -46,3 +46,4 @@ Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 31. Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
 32. Institut d’Astrophysique Spatiale, IAS (FR)
 33. University of Sheffield, Solar Physics and Space Plasma Research Centre (UK)
+34. University of Coimbra (PT)
