@@ -10,7 +10,7 @@ The nominal duration of each seminar is 30 minutes, plus time for questions (abo
 
 Remote institutes are encouraged to present the Zoom feed through their projector or screen as in a typical seminar. They can also connect a webcam and microphone for their audience to ask questions. It is also possible to connect individually with any computer. Our Zoom Pro account can currently host up to **500** individual participants.
 
-Below we include some guidelines and tips for presenters, hosts, and audiences. We are still learning how to adjust the format for larger audiences, so these may change with time.
+Below we include some guidelines and tips for presenters, hosts, and audiences. Please feel free to share any suggestions.
 
 
 ### For presenters
