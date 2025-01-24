@@ -13,3 +13,6 @@ Small solar flares, or microflares (GOES B class and fainter), are frequent burs
 
 ### Co-authors:
 Iain Hannah, Kristopher Cooper, Säm Krucker, Brian W. Grefenstette, David M. Smith, Natasha L. S. Jeffrey, Jessie Duncan, Hannah Collier
+
+### Recorded video
+[https://doi.org/10.6084/m9.figshare.28270349.v1](https://doi.org/10.6084/m9.figshare.28270349.v1)
