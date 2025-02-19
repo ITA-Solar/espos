@@ -3,7 +3,7 @@ layout:     post
 title:      "How BRADPIT could help us in flare forecasting through small AR activity monitoring"
 subtitle:   "Augustin André-Hoffmann"
 date:       2025-02-27 11:00:00
-author:     "Astronomical Institute of the Czech Academy of Sciences, Czech Republic"
+author:     "The Solar Physics and Space Plasma Research Centre, University of Sheffield, UK"
 #header-img: "img/2025-02-27-Andre-Hoffmannk.jpg"
 published:  true
 ---
