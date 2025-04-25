@@ -2,7 +2,7 @@
 layout:     post
 title:      "Solar EUV irradiances, their variations with the solar cycle and a new model"
 subtitle:   "Evangelia Deliporanidou"
-date:       2025-04-24 11:00:00
+date:       2025-05-08 11:00:00
 author:     "DAMTP, University of Cambridge"
 published:  true
 ---
