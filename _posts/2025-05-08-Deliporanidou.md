@@ -12,6 +12,4 @@ Measuring the long-term variability of solar EUV/UV irradiances is needed for e.
 
 
 ### Recorded video
-
 [https://doi.org/10.6084/m9.figshare.29038106](https://doi.org/10.6084/m9.figshare.29038106)
-
