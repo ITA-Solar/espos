@@ -7,14 +7,14 @@ header-img: "img/about-bg.jpg"
 
 The European Solar Physics Online Seminars (ESPOS) is a series of regular seminars held by video-conference, mainly, between European institutions. The aim is to build an effective and open platform for the exchange of scientific ideas among the European solar physics groups. The online seminars allow researchers to share their work more widely with a specialised audience, and give some exposure to cutting-edge research for students and other young researchers that do not regularly travel to conferences.
 
-Different institutes take turns at hosting a speaker. If your institute would like to join the seminars, please contact [Shahin Jafarzadeh](mailto:shahin.jafarzadeh@astro.uio.no) and read more about the [format and guidelines](../guidelines/).
+Different institutes take turns at hosting a speaker. If your institute would like to join the seminars, please contact [Valeriia Liakh](mailto:valeriia.liakh@astro.uio.no) and read more about the [format and guidelines](../guidelines/).
 
 Please [sign up for our mailing list](https://sympa.uio.no/astro.uio.no/subscribe/espos-announce) to receive announcements of upcoming seminars by email.
 
 Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 
 1. University of Sheffield, Plasma Dynamics Group (UK)
-2. Eötvös Loránd University, ELTE (HU)
+2. Max Planck Institute for Solar System Research, MPS (DE)
 3. Indian Institute of Astrophysics, IIA (IN)
 4. Queen’s University Belfast, Astrophysics Research Centre (UK)
 5. Astronomical Institute of Slovak Academy of Sciences (SK)
@@ -44,6 +44,6 @@ Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 29. Centre for Fusion, Space and Astrophysics, The University of Warwick (UK)
 30. Physikalisch-Meteorologisches Observatorium Davos, PMOD/WRC (CH)
 31. Institut d’Astrophysique Spatiale, IAS (FR)
-32. Max Planck Institute for Solar System Research, MPS (DE)
+32. Eötvös Loránd University, ELTE (HU)
 33. Instituto de Astrofísica de Andalucía, IAA (ES)
 34. University of Coimbra (PT)
