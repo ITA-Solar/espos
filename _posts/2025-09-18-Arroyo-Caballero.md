@@ -12,3 +12,6 @@ Understanding how solar instruments actually “see” the Sun is essential for 
 
 ## Co-authors
 Jose Carlos del Toro Iniesta, Francisco Javier Bailén Martínez, David Orozco Suárez (IAA-CSIC)
+
+## Recorded video
+[https://doi.org/10.6084/m9.figshare.30329299](https://doi.org/10.6084/m9.figshare.30329299)
