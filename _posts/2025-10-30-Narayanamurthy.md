@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Sunrise III Flight and Early Science Highlights"
-subtitle:   "Narayanamurthy Smitha" 
+subtitle:   "Smitha Narayanamurthy" 
 date:       2025-10-30 11:00:00
 author:   "Max-Planck Institute for Solar System Research, Germany"
 published:  true
