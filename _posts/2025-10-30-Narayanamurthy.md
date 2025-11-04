@@ -12,3 +12,6 @@ In July 2024, Sunrise III flew from Sweden to Canada at stratospheric heights ca
 
 ## Co-authors
 A. Korpi-Lagg, A. Gandorfer, S. K. Solanki, A. Feller, J.C. del Toro Iniesta, D. Orozco, Y. Katsukawa, T. Berkefeld, P. Bernasconi, T. Riethmüller and the Sunrise III Team
+
+##Recorded video
+[https://doi.org/10.6084/m9.figshare.30498899](https://doi.org/10.6084/m9.figshare.30498899)
