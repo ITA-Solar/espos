@@ -12,3 +12,6 @@ Spicules are ubiquitous, small-scale plasma jets that populate the lower solar a
 
 ## Co-authors
 Sahel Dey, Piyali Chatterjee, Robertus Erdélyi
+
+## Recorded video
+[https://doi.org/10.6084/m9.figshare.30773717](https://doi.org/10.6084/m9.figshare.30773717)
