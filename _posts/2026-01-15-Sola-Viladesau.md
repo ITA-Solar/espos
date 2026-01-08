@@ -3,7 +3,7 @@ layout:     post
 title:      "Understanding the Physics of Small-Scale Hot Coronal Loops"
 subtitle:   "Eva Sola Viladesau"
 date:       2025-12-11 11:00:00
-author:     "Instituto de Astrofísica de Canarias, IAC, ES"
+author:     "Instituto de Astrofísica de Canarias (IAC), ES"
 published:  true
 ---
 
