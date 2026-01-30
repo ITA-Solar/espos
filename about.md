@@ -22,7 +22,7 @@ Participating Institutions (Cyclic Hosting Order; Subject to Updates):
 7. Stockholm University, Institute for Solar Physics (SE)
 8. Observatorio Astronómico Nacional de Colombia, Universidad Nacional de Colombia (COL)
 9. Aberystwyth University, Solar System Physics group (UK)
-10. University of Central Lancashire (UK)
+10. University of Lancashire (UK)
 11. KU Leuven, Centre for Mathematical Plasma Astrophysics (BE)
 12. University of St. Andrews, Solar and Magnetospheric Theory group (UK)
 13. University of the Balearic Islands UIB, Solar Physics group (ES)
