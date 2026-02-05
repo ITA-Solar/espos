@@ -3,7 +3,7 @@ layout:     post
 title:      "Can we anticipate solar flares? Statistical analysis of the Flare Anticipation Index (FAI)"
 subtitle:   "Paula González-Prieto"
 date:       2026-02-12 11:00:00
-author:     " (Observatorio Astronómico Nacional de Colombia, Universidad Nacional de Colombia (COL)"
+author:     "Observatorio Astronómico Nacional de Colombia, Universidad Nacional de Colombia, COL"
 published:  true
 ---
 
