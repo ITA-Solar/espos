@@ -20,7 +20,7 @@ Below we include some guidelines and tips for presenters, hosts, and audiences. 
 * If you are using a video feed for the speaker, try to keep an empty area near the top right corner of your slides. (This is where others typically place your video image.)
 * Do not use a laser pointer, and avoid other visual cues that outside people will not see. You can use your mouse to point at things in the presentation (in Keynote, press ``C`` to have the mouse if this is not the default).
 * Open your presentation software but do not start the slideshow. Switch to the Zoom app and share the screen for the presentation software. Now you can start the slide show or put in fullscreen. See Zoom's help centre for <a href="https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen-" style="text-decoration:underline">sharing screen</a> and <a href="https://support.zoom.us/hc/en-us/articles/203395347-Screen-Sharing-with-Powerpoint" style="text-decoration:underline">sharing a Powerpoint</a> or <a href="https://support.zoom.us/hc/en-us/articles/201362963-Screen-Share-A-Keynote-Presentation" style="text-decoration:underline">Keynote presentation</a>.
-* Familiarise yourself with the audio/video setup well in advance of the seminar. If you want to live test with a Zoom meeting, please contact [Shahin Jafarzadeh](mailto:shahin.jafarzadeh@astro.uio.no) for details.
+* Familiarise yourself with the audio/video setup well in advance of the seminar. If you want to live test with a Zoom meeting, please contact [Valeriia Liakh](mailto:valeriia.liakh@astro.uio.no) for details.
 
 ### For hosts
 
