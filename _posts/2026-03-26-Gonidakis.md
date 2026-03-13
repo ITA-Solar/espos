@@ -3,7 +3,7 @@ layout:     post
 title:      "Comparing Solar Structure Detection Methods in SDO/AIA Observations for Onboard Spacecraft Deployment"
 subtitle:   "Panagiotis Gonidakis"
 date:       2026-03-26 11:00:00
-author:     "Centre for mathematical Plasma-Astrophysics, KU Leuven, Be"
+author:     "Centre for mathematical Plasma Astrophysics, KU Leuven, Be"
 published:  true
 ---
 
